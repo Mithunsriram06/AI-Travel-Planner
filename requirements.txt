@@ -1,0 +1,6 @@
+streamlit
+google-genai
+folium
+streamlit-folium
+requests
+python-dotenv
