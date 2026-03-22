@@ -71,7 +71,7 @@ if ss.active_tab == "Chatbot":
                 budg = st.number_input("Total budget", min_value=0)
                 ppl = st.number_input("Number of people", min_value=1)
                 
-                if ppl > 0 and (budg / ppl) > 100000:
+                if ppl > 0 and (budg / ppl) > 70000:
                     pass_opt = st.radio("Large budget! Do you have a valid passport?", ["Yes", "No"])
             else:
                 dest = st.text_input("Destination")
