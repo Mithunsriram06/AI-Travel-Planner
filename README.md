@@ -1,5 +1,5 @@
-# 🎒 AI Travel Planner for Students
-An intelligent, web-based travel planning application designed specifically for students. By combining Generative AI with open-source mapping technologies, this app creates highly personalized, budget-conscious travel itineraries and visualizes multi-stop routes on an interactive map.
+# 🎒 AI Travel Planner
+An intelligent, web-based travel planning application. By combining Generative AI with open-source mapping technologies, this app creates highly personalized, budget-conscious travel itineraries and visualizes multi-stop routes on an interactive map.
 
 ## 🌟 Features
 Dual Planning Modes: Choose between "Plan for Budget" (find destinations that fit your wallet) or "Plan for Location" (get routes and plans for a specific destination).
